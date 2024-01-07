@@ -1,0 +1,19 @@
+---
+id: idwl5braanc7jgt587574f4
+title: Psalm100
+desc: ''
+updated: 1704668915332
+created: 1704668915332
+isDir: false
+---
+\b\b
+## 1.
+MAKE a joyful noise unto the LORD, all ye lands.
+## 2.
+Serve the LORD with gladness: come before his presence with singing.
+## 3.
+Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.
+## 4.
+Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.
+## 5.
+For the LORD is good; his mercy is everlasting; and his truth endureth to all generations.

@@ -1,0 +1,48 @@
+---
+id: o1axv1roir4x69e0wzgryew
+title: Exodus
+desc: ''
+updated: 1704669006619
+created: 1704669006619
+isDir: false
+---
+[[jst.jst-old-testament.02-exodus.exodus1]]
+[[jst.jst-old-testament.02-exodus.exodus2]]
+[[jst.jst-old-testament.02-exodus.exodus3]]
+[[jst.jst-old-testament.02-exodus.exodus4]]
+[[jst.jst-old-testament.02-exodus.exodus5]]
+[[jst.jst-old-testament.02-exodus.exodus6]]
+[[jst.jst-old-testament.02-exodus.exodus7]]
+[[jst.jst-old-testament.02-exodus.exodus8]]
+[[jst.jst-old-testament.02-exodus.exodus9]]
+[[jst.jst-old-testament.02-exodus.exodus10]]
+[[jst.jst-old-testament.02-exodus.exodus11]]
+[[jst.jst-old-testament.02-exodus.exodus12]]
+[[jst.jst-old-testament.02-exodus.exodus13]]
+[[jst.jst-old-testament.02-exodus.exodus14]]
+[[jst.jst-old-testament.02-exodus.exodus15]]
+[[jst.jst-old-testament.02-exodus.exodus16]]
+[[jst.jst-old-testament.02-exodus.exodus17]]
+[[jst.jst-old-testament.02-exodus.exodus18]]
+[[jst.jst-old-testament.02-exodus.exodus19]]
+[[jst.jst-old-testament.02-exodus.exodus20]]
+[[jst.jst-old-testament.02-exodus.exodus21]]
+[[jst.jst-old-testament.02-exodus.exodus22]]
+[[jst.jst-old-testament.02-exodus.exodus23]]
+[[jst.jst-old-testament.02-exodus.exodus24]]
+[[jst.jst-old-testament.02-exodus.exodus25]]
+[[jst.jst-old-testament.02-exodus.exodus26]]
+[[jst.jst-old-testament.02-exodus.exodus27]]
+[[jst.jst-old-testament.02-exodus.exodus28]]
+[[jst.jst-old-testament.02-exodus.exodus29]]
+[[jst.jst-old-testament.02-exodus.exodus30]]
+[[jst.jst-old-testament.02-exodus.exodus31]]
+[[jst.jst-old-testament.02-exodus.exodus32]]
+[[jst.jst-old-testament.02-exodus.exodus33]]
+[[jst.jst-old-testament.02-exodus.exodus34]]
+[[jst.jst-old-testament.02-exodus.exodus35]]
+[[jst.jst-old-testament.02-exodus.exodus36]]
+[[jst.jst-old-testament.02-exodus.exodus37]]
+[[jst.jst-old-testament.02-exodus.exodus38]]
+[[jst.jst-old-testament.02-exodus.exodus39]]
+[[jst.jst-old-testament.02-exodus.exodus40]]
