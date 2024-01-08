@@ -1,11 +1,11 @@
 ---
-id: s18eckk7ivai564xlrzuc7p
-title: 4nephi
+id: 4wxf24vlqcey9ltji4u75c2
+title: 12 4 Nephi
 desc: ''
-updated: 1704668736681
-created: 1704668736681
-isDir: false
+updated: 1704678287121
+created: 1704675141660
 ---
+
 ## 1.
 And it came to pass that the thirty and fourth year passed away, and also the thirty and fifth, and behold the disciples of Jesus had formed a church of Christ in all the lands round about. And as many as did come unto them, and did truly repent of their sins, were baptized in the name of Jesus; and they did also receive the Holy Ghost.
 ## 2.

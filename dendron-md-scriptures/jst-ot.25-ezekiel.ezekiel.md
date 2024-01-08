@@ -6,7 +6,7 @@ updated: 1704669006689
 created: 1704669006689
 isDir: false
 ---
-[[jst-old-testament.25-ezekiel.ezekiel1]]
+[[jst-ot.25-ezekiel.ezekiel1]]
 [[jst.jst-old-testament.25-ezekiel.ezekiel2]]
 [[jst.jst-old-testament.25-ezekiel.ezekiel3]]
 [[jst.jst-old-testament.25-ezekiel.ezekiel4]]

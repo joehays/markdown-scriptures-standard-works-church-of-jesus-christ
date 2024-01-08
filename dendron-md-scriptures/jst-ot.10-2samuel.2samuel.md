@@ -6,7 +6,7 @@ updated: 1704669006650
 created: 1704669006650
 isDir: false
 ---
-[[jst-old-testament.10-2samuel.2samuel1]]
+[[jst-ot.10-2samuel.2samuel1]]
 [[jst.jst-old-testament.10-2samuel.2samuel2]]
 [[jst.jst-old-testament.10-2samuel.2samuel3]]
 [[jst.jst-old-testament.10-2samuel.2samuel4]]

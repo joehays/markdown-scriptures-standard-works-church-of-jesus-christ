@@ -1,11 +1,11 @@
 ---
-id: kjzufjxtoq5hsxftrdv1ur7
-title: Wordsofmormon
+id: 396erope1bqjs5b7yxty1j8
+title: 07 Words of Mormon
 desc: ''
-updated: 1704668736667
-created: 1704668736667
-isDir: false
+updated: 1704678237339
+created: 1704675141639
 ---
+
 ## 1.
 And now I, Mormon, being about to deliver up the record which I have been making into the hands of my son Moroni, behold I have witnessed almost all the destruction of my people, the Nephites.
 ## 2.

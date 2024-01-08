@@ -1,11 +1,12 @@
 ---
 id: dx97gf6bzsj8cwu8la1f0jc
-title: Jarom
+title: 05 Jarom
 desc: ''
-updated: 1704668736667
+updated: 1704678311892
 created: 1704668736667
 isDir: false
 ---
+
 ## 1.
 Now behold, I, Jarom, write a few words according to the commandment of my father, Enos, that our genealogy may be kept.
 ## 2.

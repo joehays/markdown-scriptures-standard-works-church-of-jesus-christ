@@ -1,11 +1,11 @@
 ---
-id: g7w589ngvxnqjybotvz5i81
-title: Enos
+id: k26qv7etwwjn6h5o155p0im
+title: 04 Enos
 desc: ''
-updated: 1704668736667
-created: 1704668736667
-isDir: false
+updated: 1704678321644
+created: 1704671118396
 ---
+
 ## 1.
 Behold, it came to pass that I, Enos, knowing my father that he was a just man--for he taught me in his language, and also in the nurture and admonition of the Lord--and blessed be the name of my God for it--
 ## 2.
